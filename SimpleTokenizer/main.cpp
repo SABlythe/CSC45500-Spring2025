@@ -27,5 +27,6 @@ int main(int argc, char *argv[])
       ttype=getToken(ifile, tval);
     }
 
+  cout << "Done using tokenizer"  << endl;
   return 0;
 }

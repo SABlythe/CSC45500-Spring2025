@@ -10,6 +10,7 @@
 #define PLUS 4
 #define MULT 5
 #define DIV 6
+#define PLUSPLUS 7
 
 #define EOI 0
 
