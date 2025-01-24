@@ -1,0 +1,19 @@
+# this is a comment
+if this hurts, then it should not be [done];
+
+  - person who is going to fail CSC45500
+    
+#################################
+# more                          #
+# comment                       #
+# lines, these are float like   #
+# comments                      #
+# that are not really different #
+# than one-liners               #
+#################################
+
+a=b-3/4.1*8+2; 
+myid=if&&2  - 3.1; ## ugh.
+
+here endeth the lesson # end
+end eth
